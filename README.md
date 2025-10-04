@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/semework/ConnectionSensor/tree/main/assets" alt="ConnectionSensor logo" width="160" />
+  <img src="https://github.com/semework/ConnectionSensor/blob/main/assets/connectionsensor_icon.png" alt="ConnectionSensor logo" width="160" />
 </p>
 
 # ConnectionSensor
