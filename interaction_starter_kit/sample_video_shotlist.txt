@@ -1,0 +1,19 @@
+Sample 5-Minute Interaction — Shot List (Full-Color, Neutral, Human-Centered)
+
+Scene setup:
+- Location: quiet café, daylight. Two people at a small round table.
+- Cameras: A-cam (medium two-shot), B-cam (tight on Speaker A), C-cam (tight on Speaker B).
+- Audio: two lav mics + room tone capture.
+
+Beats:
+0:00–0:30  Establishing two-shot; light ambient noise; A greets B.
+0:30–1:30  Alternating singles; capture smiles, nods; no dramatic push-ins.
+1:30–2:30  Faster cutting; capture brief overlap; include hand gestures on table.
+2:30–3:30  Insert shots: water glasses, trail map on phone, casual laughs; maintain neutral tone.
+3:30–4:30  Balanced singles; small disagreement then repair; keep framing steady, avoid caricature.
+4:30–5:00  Two-shot rejoin; mutual acknowledgment; plan next-step; end on natural pause.
+
+Coverage notes:
+- Keep color natural (sRGB), avoid heavy grading. Maintain skin-tone accuracy.
+- Light from window at ~45°; fill cards reduce contrast; no glam lighting.
+- Respectful distance; no “reaction zooms.”

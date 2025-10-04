@@ -1,0 +1,12 @@
+Demo Interaction Analysis (5 minutes)
+
+Talk time: {'A': 49.1, 'B': 50.9}
+Average turn length: 5.60s (median 5.70s, p90 7.16s)
+Overlaps: 5 turns overlapped; 1.00 overlaps/min
+Latency: median 120 ms (p90 180 ms)
+Words: 337 total (~67.4 WPM overall)
+
+Nonverbals (per minute / ratio):
+Smiles/min: {'A': 7.2, 'B': 7.0}
+Nods/min: {'A': 9.4, 'B': 7.6}
+Gaze_on_partner ratio: {'A': 0.74, 'B': 0.73}
