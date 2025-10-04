@@ -7,6 +7,15 @@
 Objective, explainable analytics for 1:1 conversations — with charts, a stick-figure infographic, and a polished PDF report.
 **No attraction/personality inference.** Only observable, defensible metrics.
 
+The process is as shown in the image below.<p align="center" style="margin:0;">
+  <img
+    src="https://github.com/semework/ConnectionSensor/blob/main/assets/about_connection_sensor.png?raw=1"
+    alt="ConnectionSensor overview"
+    width="100%"
+    style="max-width:100%; height:auto; display:block;"
+  />
+</p>
+
 > **Live Demo**: A working version is available at **[www.digitalocean.com/ConnectionSensor](https://www.digitalocean.com/ConnectionSensor)** — try it and share feedback via our LinkedIn pages below!
 
 **Developed by:**  
@@ -69,32 +78,11 @@ PRs welcome. Please add unit tests for new metrics and snapshot tests for charts
 ## License
 Your preferred license here.
 
----
+## Acknowledgments
 
-## Push your local files to GitHub
+ConnectionSensor was conceived and built during the **DigitalOcean NYC Hackathon**.  
+Huge thanks to the organizers and community for the energy, mentorship, and feedback:
 
-Use these commands if you already have the `ConnectionSensor` folder locally and want to publish it to **git@github.com:semework/ConnectionSensor.git**:
+👉 [DigitalOcean NYC Hackathon – Meetup Event](https://www.meetup.com/digitalocean-newyork/events/311118446/?eventOrigin=group_upcoming_events)
 
-```bash
-cd /path/to/ConnectionSensor
-
-# If this directory is NOT a git repo yet:
-git init
-git add -A
-git commit -m "Initial commit: ConnectionSensor"
-
-# Set the remote (SSH)
-git remote add origin git@github.com:semework/ConnectionSensor.git
-
-# Make sure the default branch is main
-git branch -M main
-
-# Push
-git push -u origin main
-```
-
-If a remote already exists and you just want to replace it:
-```bash
-git remote set-url origin git@github.com:semework/ConnectionSensor.git
-git push -u origin main
-```
+We’re grateful to the volunteers, mentors, and fellow hackers who helped shape the project!
