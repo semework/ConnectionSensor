@@ -17,6 +17,16 @@ The process is as shown in the image below.<p align="center" style="margin:0;">
 </p>
 
 
+A one figure sample result looks like the image below.<p align="center" style="margin:0;">
+  <img
+    src="https://github.com/semework/ConnectionSensor/blob/main/sample_results/interaction.png?raw=1"
+    alt="ConnectionSensor overview"
+    width="100%"
+    style="max-width:100%; height:auto; display:block;"
+  />
+</p>
+
+
 **Live Demos:** Try ConnectionSensor here — and share feedback via our LinkedIn pages below!
 
 - **[Firebase](https://studio--studio-9467669221-1774f.us-central1.hosted.app/dashboard)**
