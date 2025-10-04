@@ -16,7 +16,13 @@ The process is as shown in the image below.<p align="center" style="margin:0;">
   />
 </p>
 
-> **Live Demo**: A working version is available at **[www.digitalocean.com/ConnectionSensor](https://www.digitalocean.com/ConnectionSensor)** — try it and share feedback via our LinkedIn pages below!
+
+**Live Demos:** Try ConnectionSensor here — and share feedback via our LinkedIn pages below!
+
+- **[Firebase](https://studio--studio-9467669221-1774f.us-central1.hosted.app/dashboard)**
+- **[DigitalOcean](https://cloud.digitalocean.com/gen-ai/workspaces/11f0a14c-32ec-2f20-b074-4e013e2ddde4/agents/335484b6-a14c-11f0-b074-4e013e2ddde4/playground?i=41bcc9)**
+
+
 
 **Developed by:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mulugeta%20Semework-blue?logo=linkedin)](https://www.linkedin.com/in/mulugeta-semework-abebe/)  
